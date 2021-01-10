@@ -1,0 +1,2 @@
+module AppTeste2 {
+}
